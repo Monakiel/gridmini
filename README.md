@@ -1,2 +1,5 @@
-# gridmini
-A little playaround with CSS Grid to discover its true power.
+# Grid Showcase
+
+A little playaround with the awesome CSS Grid to discover its true power.
+
+Feel free to check it out.
